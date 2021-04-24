@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Farhsn
 - 👀 I’m interested in programming in c#, c++ and python
 - 🌱 I’m currently learning c#
-- 📫 How to reach me nahrafssite@gmail.com
+- 📫 How to reach me nahrafsite@gmail.com
 
 <!---
 Farhsn/Farhsn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
